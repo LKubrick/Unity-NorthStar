@@ -6,7 +6,7 @@
     "com.meta.xr.sdk.core": "66.0.0",
     "com.meta.xr.sdk.interaction": "66.0.0",
     "com.meta.xr.sdk.interaction.ovr": "66.0.0",
-    "com.meta.xr.simulator": "65.0.0",
+    "com.meta.xr.simulator": "76.0.0",
     "com.naelstrof.jigglephysics": "https://github.com/naelstrof/UnityJigglePhysics.git#upm",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "1.1.5",
